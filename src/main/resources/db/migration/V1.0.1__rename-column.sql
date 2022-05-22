@@ -1,0 +1,1 @@
+alter table clients rename column phone to celphone;
