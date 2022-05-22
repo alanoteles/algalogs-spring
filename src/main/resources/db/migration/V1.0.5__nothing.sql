@@ -1,0 +1,1 @@
+alter table clients add column test varchar(50) AFTER name;
